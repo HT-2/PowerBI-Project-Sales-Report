@@ -29,6 +29,6 @@ This is a PowerBI dashboard created on sales data to showcase the sales performa
      - **Total Quantity of Sales**: Indicated as '9M' (presumably 9 million units).
      - **Total Revenue from Sales**: Displayed as '$172.8M' (approximately 172.8 million dollars).
    - These metrics provide a quick snapshot of overall sales performance.
-   
-![image](https://github.com/HT-2/PowerBI-Project-Sales-Report/assets/66489530/4ac27af2-0cc9-4aab-b6e7-7c25b5ccc7a3)
+
+![image](https://github.com/HT-2/PowerBI-Project-Sales-Report/assets/66489530/31e20656-9d47-4834-8df9-eadca26fd7df)
 
