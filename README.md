@@ -11,11 +11,11 @@ This is a PowerBI dashboard created on sales data to showcase the sales performa
    - Peaks and valleys in the line indicate seasonal trends or fluctuations.
    - Useful for understanding monthly sales patterns.
 
-3. **Sales Year-on-Year Analysis** (not explicitly shown):
+3. **Sales Year-on-Year Analysis**:
    - Typically, this analysis compares sales performance year-on-year.
    - It helps assess growth or decline by comparing the current year's sales to the same period in the previous year.
 
-4. **Sales Year-to-Date Analysis** (not explicitly shown):
+4. **Sales Year-to-Date Analysis**:
    - This analysis tracks cumulative sales from the beginning of the year up to the current month.
    - It provides insights into progress toward annual sales targets.
 
@@ -29,4 +29,6 @@ This is a PowerBI dashboard created on sales data to showcase the sales performa
      - **Total Quantity of Sales**: Indicated as '9M' (presumably 9 million units).
      - **Total Revenue from Sales**: Displayed as '$172.8M' (approximately 172.8 million dollars).
    - These metrics provide a quick snapshot of overall sales performance.
+   
+![image](https://github.com/HT-2/PowerBI-Project-Sales-Report/assets/66489530/4ac27af2-0cc9-4aab-b6e7-7c25b5ccc7a3)
 
