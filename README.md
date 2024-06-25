@@ -1,7 +1,6 @@
 # PowerBI-Project-Sales-Report
 This is a PowerBI dashboard created on sales data to showcase the sales performance for a client. The breakdown of different visualizations are as follows:
 
-
 1. **Sales by Category**:
    - This bar chart breaks down sales by different store categories (e.g., Novelty Shop, Grocery Store, Computer Store).
    - Each category is represented by a bar, and the height of the bar corresponds to the total sales figure for that category.
